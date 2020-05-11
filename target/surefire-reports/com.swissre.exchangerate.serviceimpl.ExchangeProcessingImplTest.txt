@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.swissre.exchangerate.serviceimpl.ExchangeProcessingImplTest
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.481 sec - in com.swissre.exchangerate.serviceimpl.ExchangeProcessingImplTest

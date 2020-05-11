@@ -1,0 +1,4 @@
+com\swissre\exchangerate\utils\ExchangeRateConstants.class
+com\swissre\exchangerate\services\ExchangeProcessingService.class
+com\swissre\exchangerate\serviceimpl\ExchangeProcessingImpl.class
+com\swissre\exchangerate\App.class
